@@ -1,4 +1,4 @@
-module sdk
+module cac-sdk
 
 go 1.17
 

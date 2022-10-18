@@ -1,10 +1,11 @@
 package queries
 
 import (
+	"cac-sdk/functions"
 	"io/ioutil"
 	"log"
 	"net/http"
-	"sdk/functions"
+
 	"strconv"
 	"strings"
 
