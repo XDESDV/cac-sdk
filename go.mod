@@ -1,4 +1,4 @@
-module cac-sdk
+module github.com/xdesdv/cac-sdk
 
 go 1.17
 
