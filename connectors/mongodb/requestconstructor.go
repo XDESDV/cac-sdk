@@ -1,10 +1,10 @@
 package mongodb
 
 import (
-	"cac-sdk/queries"
 	"strconv"
 	"strings"
 
+	"github.com/xdesdv/cac-sdk/queries"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )

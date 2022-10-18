@@ -1,7 +1,6 @@
 package queries
 
 import (
-	"cac-sdk/functions"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -10,6 +9,7 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
+	"github.com/xdesdv/cac-sdk/functions"
 )
 
 // Headers : Headers spécifique
